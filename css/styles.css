@@ -1,0 +1,24 @@
+body {
+  background-color: lightgrey;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+}
+
+#board {
+  margin: 0 auto;
+  background-color: black;
+  width: 325px;
+  height: 320px;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-color: white;
+  margin: 1px;
+}
